@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# No subir archivos cifrados ni de prueba
+*.cifrado
