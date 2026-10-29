@@ -1,3 +1,5 @@
+![tests](https://github.com/acostanoemi/cifrar-archivos/actions/workflows/tests.yml/badge.svg)
+
 # cifrar-archivos
 
 Cifra y descifra cualquier archivo con una contraseña, desde la línea de comandos. El archivo cifrado es ilegible sin la clave. Hermano del [gestor de contraseñas](https://github.com/acostanoemi/gestor-contrasenas): mismo motor criptográfico (Scrypt + Fernet), aplicado a archivos.
